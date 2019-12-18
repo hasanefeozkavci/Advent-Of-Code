@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e78a8e3f-8289-491c-aee1-bfc4344d2d8f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1VANoyxmF1lv7Ec1DzKIG1tiX3n" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="Advent Of Code 1" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e78a8e3f-8289-491c-aee1-bfc4344d2d8f" name="Default Changelist" comment="" />
+      <created>1576692118320</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576692118320</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="449" y="291" key="Github.CreateGistDialog" timestamp="1576692502445">
+      <screen x="0" y="23" width="1280" height="725" />
+    </state>
+    <state x="449" y="291" key="Github.CreateGistDialog/0.23.1280.725@0.23.1280.725" timestamp="1576692502445" />
+    <state width="355" height="604" key="GridCell.Tab.0.bottom" timestamp="1576693497436">
+      <screen x="0" y="23" width="1280" height="725" />
+    </state>
+    <state width="355" height="604" key="GridCell.Tab.0.bottom/0.23.1280.725@0.23.1280.725" timestamp="1576693497436" />
+    <state width="355" height="604" key="GridCell.Tab.0.center" timestamp="1576693497435">
+      <screen x="0" y="23" width="1280" height="725" />
+    </state>
+    <state width="355" height="604" key="GridCell.Tab.0.center/0.23.1280.725@0.23.1280.725" timestamp="1576693497435" />
+    <state width="355" height="604" key="GridCell.Tab.0.left" timestamp="1576693497434">
+      <screen x="0" y="23" width="1280" height="725" />
+    </state>
+    <state width="355" height="604" key="GridCell.Tab.0.left/0.23.1280.725@0.23.1280.725" timestamp="1576693497434" />
+    <state width="355" height="604" key="GridCell.Tab.0.right" timestamp="1576693497436">
+      <screen x="0" y="23" width="1280" height="725" />
+    </state>
+    <state width="355" height="604" key="GridCell.Tab.0.right/0.23.1280.725@0.23.1280.725" timestamp="1576693497436" />
+    <state x="149" y="24" key="SettingsEditor" timestamp="1576692949517">
+      <screen x="0" y="23" width="1280" height="725" />
+    </state>
+    <state x="149" y="24" key="SettingsEditor/0.23.1280.725@0.23.1280.725" timestamp="1576692949517" />
+  </component>
+</project>
